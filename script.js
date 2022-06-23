@@ -1,3 +1,3 @@
-console.log('Esther Mosebolatan');
-console.log('168 cm');
-console.log('Nigeria')
+document.write("Esther Mosebolatan ");
+document.write("168cm ");
+document.write("Nigeria");
